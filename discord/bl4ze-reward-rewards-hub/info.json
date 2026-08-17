@@ -1,0 +1,15 @@
+{
+  "icon_url": null,
+  "is_enabled": true,
+  "is_required": true,
+  "invite_url": "https://discord.gg/C57TQdQqrh",
+  "name": "Bl4ze.Reward Rewards Hub",
+  "guild_id": "1530138100993626112",
+  "description": "Community proofs, tips and giveaways.",
+  "sort_order": 2,
+  "id": "6a82d01cb7ad28d3674497c5",
+  "created_date": "2026-08-17T09:10:52.969000",
+  "updated_date": "2026-08-17T09:10:52.969000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
